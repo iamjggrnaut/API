@@ -1,0 +1,101 @@
+[
+    {
+        "beverage": [
+            {
+                "id": 1,
+                "name": "Americano",
+                "imgLink": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTF8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80",
+                "price": 2.49,
+                "description": "A type of coffee drink prepared by diluting an espresso with hot water, giving it a similar strength to, but different flavor from, traditionally brewed coffee. Its strength varies with the number of shots of espresso and amount of water added."
+            },
+            {
+                "id": 2,
+                "name": "Espresso",
+                "imgLink": "https://images.unsplash.com/photo-1582098763665-8477ab3c25fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZXNwcmVzc28lMjBjb2ZmZWV8ZW58MHx8MHx8&w=1000&q=80",
+                "price": 2.19,
+                "description": "Espresso is generally thicker than coffee brewed by other methods, with a viscosity similar to that of warm honey. This is due to the higher concentration of suspended and dissolved solids, and the crema on top (a foam with a creamy consistency). As a result of the pressurized brewing process, the flavors and chemicals in a typical cup of espresso are very concentrated."
+            },
+            {
+                "id": 3,
+                "name": "Cappuccino",
+                "imgLink": "https://images.unsplash.com/photo-1511426420268-4cfdd3763b77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80",
+                "price": 2.69,
+                "description": "A coffee drink that today is typically composed of a single espresso shot and hot milk, with the surface topped with foamed milk. Cappuccinos are most often prepared with an espresso machine. The espresso is poured into the bottom of the cup, followed by a similar amount of hot milk, which is prepared by heating and texturing the milk using the espresso machine steam wand. The top third of the drink consists of milk foam; this foam can be decorated with artistic drawings made with the same milk, called latte art."
+            },
+            {
+                "id": 4,
+                "name": "Iced Latte",
+                "imgLink": "https://images.unsplash.com/photo-1620360289812-0abdae69d6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y29sZCUyMGNvZmZlZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+                "price": 3.19,
+                "description": "Iced lattes often have sugar or flavoring syrups added, although purists prefer them to consist simply of coffee and milk; they also are served blended with ice. The espresso can be pre-chilled (sometimes as a mixture of espresso and milk) or frozen in advance to avoid warming up the drink."
+            },
+            {
+                "id": 5,
+                "name": "Mocaccino",
+                "imgLink": "https://media.istockphoto.com/id/521618573/photo/hot-chocolate.jpg?b=1&s=170667a&w=0&k=20&c=AbcoZlmEVkW2NmV0CQpH8ibTa5491jJzQm9DoqHaGMA=",
+                "price": 3.49,
+                "description": "A chocolate-flavoured warm beverage that is a variant of a caffè latte commonly served in a glass rather than a mug. Other commonly used spellings are mochaccino and also mochachino. The name is derived from the city of Mocha, Yemen, which was one of the centres of early coffee trade."
+            }
+        ]
+    },
+    {
+        "dessert": [
+            {
+                "id": 1,
+                "name": "Tiramisu",
+                "imgLink": "https://images.unsplash.com/photo-1567588988863-bb7ca30a5914?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
+                "price": 2.19,
+                "description": "A coffee-flavoured Italian dessert. It is made of ladyfingers (savoiardi) dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese, flavoured with cocoa. The recipe has been adapted into many varieties of cakes and other desserts. Its origins are often disputed among Italian regions Veneto and Friuli Venezia Giulia."
+            },
+            {
+                "id": 2,
+                "name": "Brownie",
+                "imgLink": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+                "price": 1.99,
+                "description": "A chocolate brownie or simply a brownie is a chocolate baked confection. Brownies come in a variety of forms and may be either fudgy or cakey, depending on their density. Brownies often, but not always, have a glossy 'skin' on their upper crust. They may also include nuts, frosting, cream cheese, chocolate chips, or other ingredients."
+            },
+            {
+                "id": 3,
+                "name": "Mango Tiramisu",
+                "imgLink": "https://images.unsplash.com/photo-1635004750894-627d34515c14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+                "price": 2.69,
+                "description": "Tiramisu with mango and savoiardi is a new version of the classic Italian tiramisu. Instead of coffee, the main flavor here is mango. Creamy layers of mango-flavoured mascarpone cheese, with a slice of mango syrup dipped in ladyfingers, or savoiardi as it is called. This dessert is just licking your fingers."
+            },
+            {
+                "id": 4,
+                "name": "Choco-Donut",
+                "imgLink": "https://images.unsplash.com/photo-1612240498936-65f5101365d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+                "price": 1.19,
+                "description": "A type of food made from leavened fried dough. It is popular in many countries and is prepared in various forms as a sweet snack that can be homemade or purchased in bakeries, supermarkets, food stalls, and franchised specialty vendors. Doughnut is the traditional spelling, while donut is the simplified version; the terms are used interchangeably."
+            },
+            {
+                "id": 5,
+                "name": "Caramel Donut",
+                "imgLink": "https://images.unsplash.com/photo-1612240498936-65f5101365d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+                "price": 1.19,
+                "description": "A type of food made from leavened fried dough. It is popular in many countries and is prepared in various forms as a sweet snack that can be homemade or purchased in bakeries, supermarkets, food stalls, and franchised specialty vendors. Doughnut is the traditional spelling, while donut is the simplified version; the terms are used interchangeably."
+            },
+            {
+                "id": 6,
+                "name": "Pistachio Donut",
+                "imgLink": "https://images.unsplash.com/photo-1612240498936-65f5101365d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+                "price": 1.19,
+                "description": "A type of food made from leavened fried dough. It is popular in many countries and is prepared in various forms as a sweet snack that can be homemade or purchased in bakeries, supermarkets, food stalls, and franchised specialty vendors. Doughnut is the traditional spelling, while donut is the simplified version; the terms are used interchangeably."
+            },
+            {
+                "id": 7,
+                "name": "Strawberry Donut",
+                "imgLink": "https://images.unsplash.com/photo-1612240498936-65f5101365d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+                "price": 1.19,
+                "description": "A type of food made from leavened fried dough. It is popular in many countries and is prepared in various forms as a sweet snack that can be homemade or purchased in bakeries, supermarkets, food stalls, and franchised specialty vendors. Doughnut is the traditional spelling, while donut is the simplified version; the terms are used interchangeably."
+            },
+            {
+                "id": 8,
+                "name": "Choco-Icecream",
+                "imgLink": "https://images.unsplash.com/photo-1616484729550-98bfda0ec751?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=326&q=80",
+                "price": 1.49,
+                "description": "Chocolate ice cream is one of life's simplest pleasures, and it's easy to make. Try our easy chocolate ice cream recipe for your next afternoon treat."
+            }
+        ]
+    }
+]
